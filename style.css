@@ -1,0 +1,31 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+    margin:0;
+}
+h1{
+    font-size: 60px;
+}
+.blue-color{
+    color: royalblue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: royalblue;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: seashell;
+    font-weight: 700;
+
+
+
+}
