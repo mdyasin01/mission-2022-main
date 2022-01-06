@@ -41,4 +41,31 @@ p{
 #mission-center{
     text-align: center;
 }
+.illustrator img{
+    width: 30%;
+}
+.box1{
+  width: 300px;
+  background-image: linear-gradient(rgb(235, 192, 198),rgb(181, 209, 165));
+  padding: 50px;
+  margin: 20px;
+}
+.box2{
+    width: 300px;
+    background-image: linear-gradient(rgb(155, 155, 243),lightblue);
+    padding: 50px;
+    margin: 20px;
+}
 
+.box3{
+    width: 300px;
+    background-image: linear-gradient(rgb(238, 238, 130),rgb(238, 238, 194));
+    padding: 50px;
+    margin: 20px;
+}
+  #font-size{
+    font-size: 40px;
+    line-height: 30px;
+    font-weight: bold;
+
+  }
