@@ -1,15 +1,18 @@
 body{
-    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;
     margin:0;
 }
 h1{
     font-size: 60px;
+    line-height: 30px;
+    
 }
 .blue-color{
     color: royalblue;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -17,6 +20,7 @@ section{
 }
 .half-width img{
     width: 70%;
+    padding-top: 5%;
 }
 .link-button{
     text-decoration: none;
@@ -25,7 +29,16 @@ section{
     border-radius: 5px;
     color: seashell;
     font-weight: 700;
-
-
-
+    line-height: 50px;
 }
+p{
+    line-height: 30px;
+    font-weight: 700;
+}
+#border{
+    border-left: 5px solid coral;
+}
+#mission-center{
+    text-align: center;
+}
+
