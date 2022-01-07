@@ -71,3 +71,13 @@ p{
     font-weight: bold;
 
   }
+  .comment{
+      padding-left: 5%;
+  }
+  input{
+      size: 50px;
+  }
+  
+    footer{
+      text-align: center;
+  }
